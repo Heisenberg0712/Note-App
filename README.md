@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-Note It is a note taking app built using flutter and firebase firestore. The purpose of developing this project was to learn the
+*"Note It" is a note taking app built using flutter and firebase firestore. The purpose of developing this project was to learn the
 integration of firebase and flutter. For grid view, i used the staggered_grid_view plugin.
 
 ## Screenshots
